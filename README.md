@@ -2,12 +2,10 @@
 Hi there 👋 ---
 
 🔭 I’m currently working on Back End Projects<br>
-🌱 I’m currently learning Spring Boot v3 <br>
-👯 I’m looking to collaborate on Mobile and Backend Dev Projects<br>
+🌱 I’m currently learning Spring Boot v4.0 <br>
+👯 I’m looking to collaborate on  Backend Dev Projects<br>
 💬 Ask me about Technology and Personal Development<br>
 📫 How to reach me: mail.krishanamondal@gmail.com<br>
-😄 Pronouns: He/Him<br>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100076708813326) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/programmermondal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishana-mondal) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19248814) 
